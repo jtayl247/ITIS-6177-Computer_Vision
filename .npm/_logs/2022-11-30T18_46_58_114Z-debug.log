@@ -1,0 +1,32 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', 'swaggerJsdoc' ]
+2 info using npm@6.14.16
+3 info using node@v12.22.12
+4 verbose config Skipping project config: /root/.npmrc. (matches userconfig)
+5 verbose npm-session c641991c010f46df
+6 silly install loadCurrentTree
+7 silly install readLocalPackageData
+8 http fetch GET 404 https://registry.npmjs.org/swaggerJsdoc 379ms
+9 http fetch GET 404 https://registry.npmjs.org/swaggerJsdoc 384ms
+10 silly fetchPackageMetaData error for swaggerJsdoc@latest 404 Not Found - GET https://registry.npmjs.org/swaggerJsdoc - Not found
+11 timing stage:rollbackFailedOptional Completed in 0ms
+12 timing stage:runTopLevelLifecycles Completed in 913ms
+13 verbose stack Error: 404 Not Found - GET https://registry.npmjs.org/swaggerJsdoc - Not found
+13 verbose stack     at /usr/lib/node_modules/npm/node_modules/npm-registry-fetch/check-response.js:117:15
+13 verbose stack     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+14 verbose statusCode 404
+15 verbose pkgid swaggerJsdoc@latest
+16 verbose cwd /root
+17 verbose Linux 3.10.0-1160.45.1.el7.x86_64
+18 verbose argv "/usr/bin/node" "/usr/bin/npm" "install" "swaggerJsdoc"
+19 verbose node v12.22.12
+20 verbose npm  v6.14.16
+21 error code E404
+22 error 404 Not Found - GET https://registry.npmjs.org/swaggerJsdoc - Not found
+23 error 404
+24 error 404 'swaggerJsdoc@latest' is not in the npm registry.
+25 error 404 Your package name is not valid, because
+26 error 404 1. name can no longer contain capital letters
+27 error 404 Note that you can also install from a
+28 error 404 tarball, folder, http url, or git url.
+29 verbose exit [ 1, true ]

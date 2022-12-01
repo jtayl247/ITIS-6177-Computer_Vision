@@ -1,0 +1,10 @@
+2022-11-30 18:45:41.565 [info] Extension host with pid 10674 started
+2022-11-30 18:45:41.591 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/94a541a6bef7a2e62a6af309c6900830/vscode.lock': Lock acquired.
+2022-11-30 18:45:41.722 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2022-11-30 18:45:41.847 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-30 18:45:41.977 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-30 18:45:41.977 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-30 18:45:41.977 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-30 18:45:41.977 [info] Eager extensions activated
+2022-11-30 18:45:43.815 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2022-11-30 18:45:47.271 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
