@@ -1,7 +1,7 @@
 # ITIS-6177-Computer_Vision
 ITIS-6177 Final Project: Microsoft Azure Computer Vision API
 
-By: John Taylor
+By: John Taylor  
 Last Updated: 12/01/2022 9:30AM
 
 Description: For the final project for ITIS-6177, Professor Nolasco asked students to create APIs to interface with several differnt services. I was given Microsoft's Computer Vision service to create an API to interface with. Microsoft's documentation can be pretty messy, especially when they have several versions of the same service running at the same time. 
@@ -21,7 +21,7 @@ For API usage, please refer to this link in order to view and test API endpoints
 
   
    
-Example: Show the return data for the image of a gas station below. There will be another example for the "read" and "people" feature below. The raw data returned is in JSON format, so this example will just show the important information that the features return.
+Example: Show the return data for the image of a gas station below. There will be another example for the "read" and "people" feature below using the movie poster. The raw data returned is in JSON format, so this example will just show the important information that the features return.
 
 
 ![App Screenshot](https://pbs.twimg.com/media/FbKznovUYAMsXhO?format=jpg&name=large). 
