@@ -30,7 +30,12 @@ Example: Show the return data for the image of a gas station below. There will b
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tags: "Vehicle" - Confidence: 0.966 | "Wheel" - Confidence: 0.957 | "Night" - Confidence: .794 | Etc...   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Objects: "Car" - Confidence: 0.744 - Bounding Box: "x=332 y=682 w=222 h=101"  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Objects: "Car" - Confidence: 0.744 - Bounding Box: "x=332 y=682 w=222 h=101"   
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Example ouput:   
+
+![App Screenshot](https://github.com/jtayl247/ITIS-6177-Computer_Vision/blob/master/Car.jpeg?raw=true).
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SmartCrop: Aspect Ratio: 0.62 - Bounding Box: "x=31 y=54 w=674 h=1090"  
 
